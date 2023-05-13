@@ -355,5 +355,12 @@
 "glider": "Ventus 2cM |  D-KDJR",
 "comp": "Hotzenwald",
 "flarm": ["3E64D7"]
-}
+},
+{
+        "name": "Gerd Weinelt",
+        "cn": "OK",
+        "glider": "ASH25",
+        "comp": "",
+        "flarm": ["DDA34F"]
+    }
 ]
