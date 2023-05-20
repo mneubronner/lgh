@@ -357,6 +357,13 @@
 "flarm": ["3E64D7"]
 },
 {
+"name": " SG Wehr",
+"cn": "WH ",
+"glider": "SLW600 |  D-MZWH",
+"comp": "Hotzenwald",
+"flarm": ["3FFAEB"]
+},
+{
         "name": "Gerd Weinelt",
         "cn": "OK",
         "glider": "ASH25",
