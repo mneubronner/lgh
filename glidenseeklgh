@@ -14,6 +14,13 @@
 "flarm": ["DDADD7"]
 },
 {
+"name": "SG Wehr",
+"cn": "HW",
+"glider": "Arcus M |  D-KXHW",
+"comp": "Hotzenwald",
+"flarm": ["DDE9F2"]
+},
+{
 "name": " SG Wiesental",
 "cn": "S1 ",
 "glider": "Duo Discus T |  D-KSGS",
@@ -144,7 +151,14 @@
 "cn": "M2 ",
 "glider": "Ventus 2cxT |  D-KLGM",
 "comp": "Hotzenwald",
-"flarm": ["DDBD0C"]
+"flarm": ["3E79A4"]
+},
+{
+"name": "Thomas & Ramona",
+"cn": "2Z",
+"glider": "JS3 RES | D-KYZZ",
+"comp": "Hotzenwald",
+"flarm": ["D01D12"]
 },
 {
 "name": " Gabi Kade",
