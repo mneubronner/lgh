@@ -1,13 +1,13 @@
 [
 {
-"name": " unknown",
+"name": "unknown",
 "cn": "S1 ",
 "glider": "Duo Discus T |  D-KSGS",
 "comp": "Hotzenwald",
 "flarm": ["DD9EA7"]
 },
 {
-"name": " Aercoclub Berlin Mitte",
+"name": "Aercoclub Berlin Mitte",
 "cn": "WA ",
 "glider": "Duo Discus T WL |  D-KFDS",
 "comp": "Hotzenwald",
@@ -21,7 +21,7 @@
 "flarm": ["DDE9F2"]
 },
 {
-"name": " SG Wiesental",
+"name": "SG Wiesental",
 "cn": "S1 ",
 "glider": "Duo Discus T |  D-KSGS",
 "comp": "Hotzenwald",
@@ -35,14 +35,14 @@
 "flarm": ["DD9C89"]
 },
 {
-"name": " LGH",
+"name": "LGH",
 "cn": "11",
 "glider": "ASK21 |  D-3247",
 "comp": "Hotzenwald",
 "flarm": ["DD9CCF"]
 },
 {
-"name": " LGH",
+"name": "LGH",
 "cn": "22",
 "glider": "ASK21 |  D-5383",
 "comp": "Hotzenwald",
@@ -56,105 +56,105 @@
 "flarm": ["3ECE22"]
 },
 {
-"name": " Heike Deboben",
+"name": "SG Säckingen",
 "cn": "IKX ",
 "glider": "LS4a |  D-1371",
 "comp": "Hotzenwald",
 "flarm": ["DD9C69"]
 },
 {
-"name": " SG Säckingen",
+"name": "SG Säckingen",
 "cn": "42",
 "glider": "LS8a |  D-2842",
 "comp": "Hotzenwald",
 "flarm": ["DD87EB"]
 },
 {
-"name": " SG Wehr",
+"name": "SG Wehr",
 "cn": "WB ",
 "glider": "Discus b |  D-5584",
 "comp": "Hotzenwald",
 "flarm": ["DD99D9"]
 },
 {
-"name": " SG Wehr",
+"name": "SG Wehr",
 "cn": "WD ",
 "glider": "Ventus 2cT |  D-KKWD",
 "comp": "Hotzenwald",
 "flarm": ["DDAC94"]
 },
 {
-"name": " SG Wiesental",
+"name": "SG Wiesental",
 "cn": "M4 ",
 "glider": "Discus b |  D-4395",
 "comp": "Hotzenwald",
 "flarm": ["DD9BC8"]
 },
 {
-"name": " LGH",
+"name": "LGH",
 "cn": "LD ",
 "glider": "DuoDiscus |  D-1596",
 "comp": "Hotzenwald",
 "flarm": ["DD9268"]
 },
 {
-"name": " SG Säckingen",
+"name": "SG Säckingen",
 "cn": "RR ",
 "glider": "Discus b |  D-9973",
 "comp": "Hotzenwald",
 "flarm": ["DDFA7F"]
 },
 {
-"name": " Laichingen",
+"name": "Laichingen",
 "cn": "WC ",
 "glider": "SF25 |  D-KBWC",
 "comp": "Hotzenwald",
 "flarm": ["DD9CC7"]
 },
 {
-"name": " Super Äffle",
+"name": "Super Äffle",
 "cn": "H7 ",
 "glider": "LS1-f  |  OK-5650",
 "comp": "Hotzenwald",
 "flarm": ["DD192F"]
 },
 {
-"name": " Manfred Lenz",
+"name": "Manfred Lenz",
 "cn": "H7 ",
 "glider": "Ventus cM |  D-KCHL",
 "comp": "Hotzenwald",
 "flarm": ["DD9C68"]
 },
 {
-"name": " SG Wehr",
+"name": "SG Wehr",
 "cn": "WF ",
 "glider": "Duo Discus XLT |  D-KDWF",
 "comp": "Hotzenwald",
 "flarm": ["DD9C11"]
 },
 {
-"name": " SG Wehr",
+"name": "SG Wehr",
 "cn": "WE ",
 "glider": "Ventus 2cxT |  D-KDWE",
 "comp": "Hotzenwald",
 "flarm": ["DDE01D"]
 },
 {
-"name": " SG Dreiländereck",
+"name": "SG Dreiländereck",
 "cn": "3L ",
 "glider": "ASH25 >26m |  D-KREM",
 "comp": "Hotzenwald",
 "flarm": ["DDA2F9"]
 },
 {
-"name": " unknown",
+"name": "unknown",
 "cn": "S3 ",
 "glider": "DG400 |  D-KAJH",
 "comp": "Hotzenwald",
 "flarm": ["DD9B98"]
 },
 {
-"name": " SG Wiesental",
+"name": "SG Wiesental",
 "cn": "M2 ",
 "glider": "Ventus 2cxT |  D-KLGM",
 "comp": "Hotzenwald",
@@ -168,70 +168,70 @@
 "flarm": ["D01D12"]
 },
 {
-"name": " Gabi Kade",
+"name": "Gabi Kade",
 "cn": "GK ",
 "glider": "Club Libelle |  D-9487",
 "comp": "Hotzenwald",
 "flarm": ["DDB28B"]
 },
 {
-"name": " Nils Ruckert",
+"name": "Nils Ruckert",
 "cn": "F7 ",
 "glider": "Nils Ruckert |  D-4464",
 "comp": "Hotzenwald",
 "flarm": ["DDE2FD"]
 },
 {
-"name": " Pinguin",
+"name": "Pinguin",
 "cn": "3B ",
 "glider": "DG500M |  D-KFOZ",
 "comp": "Hotzenwald",
 "flarm": ["DD9C95"]
 },
 {
-"name": " Heike Deboben",
+"name": "Heike Deboben",
 "cn": "Y4 ",
 "glider": "LS4a |  D-1234",
 "comp": "Hotzenwald",
 "flarm": ["DD9963"]
 },
 {
-"name": " Peter Groß",
+"name": "Peter Groß",
 "cn": "OE ",
 "glider": "DG800M |  D-KNOE",
 "comp": "Hotzenwald",
 "flarm": ["3E7FB4"]
 },
 {
-"name": " Werner Metzger",
+"name": "Werner Metzger",
 "cn": "WM ",
 "glider": "Apis |  D-MHWM",
 "comp": "Hotzenwald",
 "flarm": ["DD5000"]
 },
 {
-"name": " SG Wiesental",
+"name": "SG Wiesental",
 "cn": "SM ",
 "glider": "Arcus M |  D-KHSM",
 "comp": "Hotzenwald",
 "flarm": ["DF14F2"]
 },
 {
-"name": " LGH",
+"name": "LGH",
 "cn": "KB ",
 "glider": "Dimona |  D-KBKB",
 "comp": "Hotzenwald",
 "flarm": ["DD9268"]
 },
 {
-"name": " Anna Weniger",
+"name": "Anna Weniger",
 "cn": "TK ",
 "glider": "Libelle |  D-0603",
 "comp": "Hotzenwald",
 "flarm": ["DD9CB3"]
 },
 {
-"name": " LGH",
+"name": "LGH",
 "cn": "IG ",
 "glider": "PA-25 Pawnee |  OH-PIG",
 "comp": "Hotzenwald",
@@ -252,98 +252,98 @@
 "flarm": ["DD911B"]
 },
 {
-"name": " Thomas Wieland",
+"name": "Thomas Wieland",
 "cn": "OM ",
 "glider": "DG800 |  D-KNOM",
 "comp": "Hotzenwald",
 "flarm": ["DD9C30"]
 },
 {
-"name": " Philipp Keller",
+"name": "Philipp Keller",
 "cn": "PK ",
 "glider": "Ventus 3M |  D-KIPK",
 "comp": "Hotzenwald",
 "flarm": ["3E77E8"]
 },
 {
-"name": " Molly Taurus",
+"name": "Molly Taurus",
 "cn": "LR ",
 "glider": "Taurus |  D-MJLR",
 "comp": "Hotzenwald",
 "flarm": ["DDDFEB"]
 },
 {
-"name": " FG Wolf Hirth",
+"name": "FG Wolf Hirth",
 "cn": "K1 ",
 "glider": "Ventus 3T |  D-KWHK",
 "comp": "Hotzenwald",
 "flarm": ["3ED6C8"]
 },
 {
-"name": " Sven Lissel",
+"name": "Sven Lissel",
 "cn": "OS ",
 "glider": "Ventus 2xcM |  D-KPOS",
 "comp": "Hotzenwald",
 "flarm": ["3EC50A"]
 },
 {
-"name": " Obelix",
+"name": "Obelix",
 "cn": "6V ",
 "glider": "Ventus 3M |  D-KYBA",
 "comp": "Hotzenwald",
 "flarm": ["3EDB6A"]
 },
 {
-"name": " Helmar Gai",
+"name": "Helmar Gai",
 "cn": "ZW ",
 "glider": "ASH31-Mi |  D-KGZW",
 "comp": "Hotzenwald",
 "flarm": ["DDFDED"]
 },
 {
-"name": " Claus Hufen",
+"name": "Claus Hufen",
 "cn": "CU ",
 "glider": "DG800B |  D-KBCU",
 "comp": "Hotzenwald",
 "flarm": ["DDEAAE"]
 },
 {
-"name": " Alfred Spindelberger",
+"name": "Alfred Spindelberger",
 "cn": "SA ",
 "glider": "DG800B |  D-KYSA",
 "comp": "Hotzenwald",
 "flarm": ["DDE9F8"]
 },
 {
-"name": " Eberhard Nill",
+"name": "Eberhard Nill",
 "cn": "EN ",
 "glider": "DG800B |  D-KTEN",
 "comp": "Hotzenwald",
 "flarm": ["DD95AB"]
 },
 {
-"name": " Franz Gall",
+"name": "Franz Gall",
 "cn": "GK ",
 "glider": "Ventus 3M |  D-KFGK",
 "comp": "Hotzenwald",
 "flarm": ["3E69CA"]
 },
 {
-"name": " Marcus Neubronner",
+"name": "Marcus Neubronner",
 "cn": "H7 ",
 "glider": "Ventus 2cM |  D-KDJR",
 "comp": "Hotzenwald",
 "flarm": ["DD9C41"]
 },
 {
-"name": " Stefan Langer",
+"name": "Stefan Langer",
 "cn": "SL ",
 "glider": "ASG 29 |  D-xxxx",
 "comp": "Hotzenwald",
 "flarm": ["DF2043"]
 },
 {
-"name": " Christan Mäx",
+"name": "Christan Mäx",
 "cn": "MÄX ",
 "glider": "AS33e |  D-KUWH",
 "comp": "Hotzenwald",
@@ -364,14 +364,14 @@
 "flarm": ["DF1629"]
 },
 {
-"name": " Tilo Holighaus",
+"name": "Tilo Holighaus",
 "cn": "3V ",
 "glider": "Ventus 3T |  D-xxxx",
 "comp": "Hotzenwald",
 "flarm": ["3ED053"]
 },
 {
-"name": " Marcus Neubronner",
+"name": "Marcus Neubronner",
 "cn": "H7 ",
 "glider": "Ventus 2cM |  D-KDJR",
 "comp": "Hotzenwald",
