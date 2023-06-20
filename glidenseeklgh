@@ -35,9 +35,9 @@
 "flarm": ["DD9C89"]
 },
 {
-"name": "LGH",
-"cn": "11",
-"glider": "ASK21 |  D-3247",
+"name": "Sebastian Lampart",
+"cn": "WD",
+"glider": "Ventus 2cT |  D-KKWD",
 "comp": "Hotzenwald",
 "flarm": ["DD9CCF"]
 },
@@ -77,9 +77,9 @@
 "flarm": ["DD99D9"]
 },
 {
-"name": "SG Wehr",
-"cn": "WD ",
-"glider": "Ventus 2cT |  D-KKWD",
+"name": "LGH",
+"cn": "11 ",
+"glider": "ASK-21 |  D-3247",
 "comp": "Hotzenwald",
 "flarm": ["DDAC94"]
 },
@@ -378,7 +378,7 @@
 "flarm": ["3E64D7"]
 },
 {
-"name": " SG Wehr",
+"name": "SG Wehr",
 "cn": "WH ",
 "glider": "SLW600 |  D-MZWH",
 "comp": "Hotzenwald",
