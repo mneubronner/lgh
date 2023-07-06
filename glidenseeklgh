@@ -399,6 +399,20 @@
 "flarm": ["DF10B7"]
 },
 {
+"name": "Heiko Nill",
+"cn": "3H",
+"glider": "Arcus M |  D-KHHH",
+"comp": "Hotzenwald",
+"flarm": ["3E6F29"]
+},
+{
+"name": "Holger Leicht",
+"cn": "LL",
+"glider": "DG800B |  D-KTLL",
+"comp": "Hotzenwald",
+"flarm": ["3ECF45"]
+},
+{
 "name": "Jürgen Wenzel",
 "cn": "61 ",
 "glider": "Ventus 3M |  D-KXJM",
