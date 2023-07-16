@@ -46,7 +46,7 @@
 "cn": "22",
 "glider": "ASK21 |  D-5383",
 "comp": "Hotzenwald",
-"flarm": ["DD9C7D"]
+"flarm": ["DD9A83"]
 },
 {
 "name": "Tore & Annika Gräber",
@@ -81,7 +81,7 @@
 "cn": "11 ",
 "glider": "ASK-21 |  D-3247",
 "comp": "Hotzenwald",
-"flarm": ["DDAC94"]
+"flarm": ["3E7797"]
 },
 {
 "name": "SG Wiesental",
@@ -89,6 +89,13 @@
 "glider": "Discus b |  D-4395",
 "comp": "Hotzenwald",
 "flarm": ["DD9BC8"]
+},
+{
+"name": "Anna & Steffen Weniger",
+"cn": "AS",
+"glider": "Standard Libelle",
+"comp": "Hotzenwald",
+"flarm": ["3EE2F2"]
 },
 {
 "name": "LGH",
