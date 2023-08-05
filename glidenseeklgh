@@ -56,6 +56,13 @@
 "flarm": ["3ECE22"]
 },
 {
+"name": "SG Dreiländereck",
+"cn": "TL",
+"glider": "Discus b | D-5097",
+"comp": "Hotzenwald",
+"flarm": ["DD9986"]
+},
+{
 "name": "SG Säckingen",
 "cn": "IKX ",
 "glider": "LS4a |  D-1371",
