@@ -88,7 +88,7 @@
 "cn": "11 ",
 "glider": "ASK-21 |  D-3247",
 "comp": "Hotzenwald",
-"flarm": ["DDB0BD"]
+"flarm": ["DDAC94"]
 },
 {
 "name": "SG Wiesental",
@@ -144,7 +144,7 @@
 "cn": "WF ",
 "glider": "Duo Discus XLT |  D-KDWF",
 "comp": "Hotzenwald",
-"flarm": ["DDAC94"]
+"flarm": [""]
 },
 {
 "name": "SG Wehr",
@@ -235,7 +235,7 @@
 "cn": "KB ",
 "glider": "Dimona |  D-KBKB",
 "comp": "Hotzenwald",
-"flarm": [""]
+"flarm": ["DDB0BD"]
 },
 {
 "name": "Anna Weniger",
