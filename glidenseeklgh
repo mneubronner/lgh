@@ -441,6 +441,13 @@
 "flarm": ["D006F7"]
 },
 {
+"name": "Michael Sommer",
+"cn": "EB",
+"glider": "EB29R | D-KUEB",
+"comp": "Hotzenwald",
+"flarm": ["D02036"]
+}
+{
         "name": "Gerd Weinelt",
         "cn": "OK",
         "glider": "ASH25",
