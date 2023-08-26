@@ -5,5 +5,12 @@
 "glider": "Ventus 3M |  D-KYBA",
 "comp": "Hotzenwald",
 "flarm": ["3EDB6A"]
-}
+},
+{
+        "name": "Marcus Neubronner",
+        "cn": "H7",
+        "glider": "Ventus 2cM | D-KDJR",
+        "comp": "Unicorn",
+        "flarm": ["3E64D7"]
+    }
 ]
