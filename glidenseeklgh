@@ -144,7 +144,7 @@
 "cn": "WF ",
 "glider": "Duo Discus XLT |  D-KDWF",
 "comp": "Hotzenwald",
-"flarm": [""]
+"flarm": ["0C4033"]
 },
 {
 "name": "SG Wehr",
@@ -152,6 +152,13 @@
 "glider": "Ventus 2cxT |  D-KDWE",
 "comp": "Hotzenwald",
 "flarm": ["DDE01D"]
+},
+{
+"name": "Marcus Neubronner",
+"cn": "6Va",
+"glider": "Ventus 2cM | Victoria",
+"comp": "Hotzenwald",
+"flarm": ["3E64D7"]
 },
 {
 "name": "SG Dreiländereck",
