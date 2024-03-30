@@ -460,5 +460,12 @@
         "glider": "ASH25",
         "comp": "",
         "flarm": ["DDA34F"]
-    }
+    },
+{
+"name": "Benni Bachmaier",
+"cn": "MAi",
+"glider": "Ventus 2bx | D-7709",
+"comp": "Hotzenwald",
+"flarm": ["3EFEB4"]
+}
 ]
