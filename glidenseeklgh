@@ -7,8 +7,8 @@
 "flarm": ["DD9EA7"]
 },
 "name": "unknown",
-"cn": "55 ",
-"glider": "Janus Ce - D-xx55",
+"cn": "55",
+"glider": "Janus Ce | D-xx55",
 "comp": "Hotzenwald",
 "flarm": ["DD9E86"]
 },
@@ -505,7 +505,7 @@
 },
 {
         "name": "Matthew Scutter",
-        "cn": "MSc",
+        "cn": "WX",
         "glider": "JS3 RES",
         "comp": "",
         "flarm": ["D021CA"]
